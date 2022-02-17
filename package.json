@@ -1,0 +1,23 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangqiaoling01/algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangqiaoling01/algorithm/issues"
+  },
+  "homepage": "https://github.com/wangqiaoling01/algorithm#readme",
+  "devDependencies": {
+    "ts-node": "^10.5.0"
+  }
+}
